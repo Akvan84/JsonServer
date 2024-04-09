@@ -1,0 +1,77 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "home",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 2,
+      "name": "about",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 3,
+      "name": "gallery",
+      "link": "#",
+      "dropdown": [{
+        "id": 1,
+        "name": "gallery-1",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "gallery-2",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "gallery-3",
+        "link": "#"
+      },{
+        "id": 4,
+        "name": "gallery-4",
+        "link": "#"
+      },{
+        "id": 5,
+        "name": "gallery-5",
+        "link": "#"
+      }
+    ]
+    },
+    {
+      "id": 4,
+      "name": "shop",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "product-1",
+          "link": "#"
+        },
+        {
+          "id": 2,
+          "name": "product-2",
+          "link": "#"
+        },
+        {
+          "id": 3,
+          "name": "product-3",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "home",
+      "link": "#",
+      "dropdown": []
+    }
+  ],
+  "parallax":{
+    "id":1,
+    "image":"https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg"
+  }
+}
